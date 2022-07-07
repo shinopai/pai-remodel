@@ -1,5 +1,6 @@
 /* breakpoint */
 $breakpoints: (
+  "md": "screen and (max-width: 1200px)",
   "sm": "screen and (max-width: 720px)",
 ) !default;
 
